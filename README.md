@@ -62,4 +62,8 @@ app/src/main/java/com/example/
 - Julliana Silva Furtado
 - Luis Eduardo Macedo Leite
 
+## Vídeo de Apresentação do Projeto
+
+Link: https://www.youtube.com/watch?v=tq3X8r-42yA
+
 Projeto acadêmico desenvolvido para o Centro Universitário Internacional UNINTER — Escola Superior Politécnica.
